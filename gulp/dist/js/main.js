@@ -1,0 +1,1 @@
+console.log("this is control.js"),console.log("this is model.js"),console.log("this is view.js");

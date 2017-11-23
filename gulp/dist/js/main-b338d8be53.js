@@ -1,0 +1,1 @@
+console.log("this is contor.js"),$("div").on("click","img",function(o){o.preventDefault(),alert($(this).attr("alt")),console.log($(this).attr("alt"))}),console.log("this is model.js"),console.log("this is view.js");
